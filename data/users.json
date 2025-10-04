@@ -1,0 +1,22 @@
+[
+  {
+    "name": "invalid_email",
+    "email": "no-existe@example.com",
+    "password": "wrongpass123"
+  },
+  {
+    "name": "invalid_password",
+    "email": "jhae321drago@gmail.com",
+    "password": "incorrectPassword!"
+  },
+  {
+    "name": "empty_password",
+    "email": "someuser@example.com",
+    "password": ""
+  },
+  {
+    "name": "invalid_imail_format",
+    "email": "invalid-email-format",
+    "password": "password123"
+  }
+]
