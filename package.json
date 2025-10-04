@@ -1,0 +1,23 @@
+{
+  "name": "mini-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elv500/mini-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elv500/mini-framework/issues"
+  },
+  "homepage": "https://github.com/Elv500/mini-framework#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.2",
+    "dotenv": "^17.2.3"
+  }
+}
