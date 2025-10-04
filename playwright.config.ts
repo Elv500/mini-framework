@@ -32,7 +32,7 @@ export default defineConfig({
       testMatch: 'tests/ui/**/*.spec.ts',
       use: {
         ...devices['Desktop Chrome'],
-        baseURL: process.env.BASE_URL_UI
+        baseURL: process.env.UI_URL,
       },
     },
   ],
